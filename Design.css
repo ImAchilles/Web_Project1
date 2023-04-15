@@ -1,0 +1,41 @@
+
+
+* {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    border: 7px dashed green;
+    min-height: 100%;
+    background-color: #f8f5e9;
+    color:#071519;
+    font-family: monospace, fantasy, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+body {
+    border: 3px dotted blue;
+    min-height: 100%;
+}
+
+img {
+    border-radius: 45%;
+    box-shadow: 2px 2px 17px black;
+}
+
+.welcome_note {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.footer{
+    text-align: center;
+    vertical-align: bottom;
+    background-color: #071519;
+    color: #f8f5e9;
+    padding: 7px;
+}
+
