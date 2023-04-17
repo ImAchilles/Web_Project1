@@ -5,19 +5,19 @@
     padding: 0;
     box-sizing: border-box;
     font-family: monospace, fantasy, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border: 1px dashed
+
 }
 
 html {
     min-height: 100%;
-    background-color: #f8f5e9;
-    color:#071519;
-
 }
 
 
-body {
+.body_page {
     min-height: 100%;
+    background-color: #f8f5e9;
+    color:#071519;
+
 }
 
 img {
@@ -64,6 +64,10 @@ img {
 .navigation {
     margin: 27px 37px;
 
+}
+
+.nav_p {
+    margin-bottom: 0;
 }
 
 .footer{
