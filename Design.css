@@ -88,8 +88,9 @@ img {
     background-color: #071519;
     border: 1px solid black;
     position: absolute;
-    left: 100px;
-    height: 100%;
+    left: 120px;
+    height: 90%;
+    bottom:0%
 }
 
 .about_nav_line {
